@@ -1,4 +1,4 @@
 # dotfiles
 Dotfiles for current KDE setup.
 
-!(images/1.png)
+![Preview](images/1.png)
